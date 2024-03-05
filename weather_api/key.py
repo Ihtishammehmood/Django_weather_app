@@ -1,0 +1,1 @@
+api_key = "7fbf12cf65b0b25ed4e27974d77245f1" # use your own api
